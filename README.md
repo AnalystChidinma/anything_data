@@ -15,7 +15,7 @@ Assign a health_status field with one of the following values:
   Based on the following logic:
 
 - HEALTHY if:
-    
+
 status_code is 200 AND
 errors is empty AND
 warnings is empty or only includes "late data arrival" AND
