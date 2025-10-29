@@ -49,3 +49,12 @@ OR record_count == 0
    - Total pipelines evaluated
 
    - Count of each health status category
+
+  ## TOOLS
+  - goggle collab
+  - python 3x
+  - Github for documentation
+
+    Author
+    - linkedln (https://www.linkedin.com/in/chidinma-okeh/)
+    - X https://x.com/_Datalady
